@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=nikandlv&color=brightgreen" alt="watching_count" />
+
 ### Hi there 👋
 
 - 🔭 I’m currently working at Intravse
